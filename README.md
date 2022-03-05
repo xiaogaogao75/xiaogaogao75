@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @xiaogaogao75
-- 👀 I’m interested in big data
-- 🌱 I’m currently learning big data
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in c#/c++
+- 🌱 I’m currently learning c#/c++
 - 📫 How to reach me  qq:2839033900
 -                  email:2839033900@qq.com
 
